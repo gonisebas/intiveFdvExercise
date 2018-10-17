@@ -1,0 +1,2 @@
+BikeRental is the class that you will pass an item or a promotion (with an items list) and receive the sell price.
+To run tests just execute 'sbt test' in the command line prompted on the project root 
